@@ -19,7 +19,9 @@ export default defineConfig({
 				},
 				{
 					label: '交流会の記録',
-					autogenerate: { directory: '02_marp' },
+					items: [
+						// { label: '2024-05-18', link: '/02_marp/1th_anime/' },
+					],
 				},
 				{
 					label: 'horomiの日記',

@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_marp/1th_anime/index.md",
+                "file": "01_guides/example.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_marp/1th_anime/index.md",
+                "file": "01_guides/example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_marp/1th_anime/index.md",
+                "file": "01_guides/example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_marp/1th_anime/index.md"
+                "file": "01_guides/example.md"
               }
             }
           }
@@ -164,8 +164,15 @@
   },
   "active": "794dc6e2b907d7eb",
   "lastOpenFiles": [
-    "02_marp/Home.md",
+    "99_reference/example.md",
+    "03_daily/はじめてのお話会が楽しみ.md",
+    "99_Template/PostTemplate.md",
+    "99_Template/MarpTemplate.md",
+    "02_marp/1th_anime/index.md",
+    "01_guides/example.md",
+    "99_Template",
     "02_marp/1th_anime/_notes/Anchoko.md",
+    "02_marp/Home.md",
     "02_marp/1th_anime/_notes",
     "02_marp/notes.md",
     "02_marp/1th_anime/notes/Anchoko.md",
@@ -177,8 +184,6 @@
     "02_marp/1th_anime/Home",
     "_notes/Anchoko.md",
     "_notes",
-    "02_marp/1th_anime/index.md",
-    "99_reference/example.md",
     "03_daily",
     "02_marp/1th_anime/images/2024-05-16-11-22-02.png",
     "02_marp/1th_anime/images/2024-05-16-11-08-38.png",
