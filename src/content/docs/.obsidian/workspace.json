@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_reference/example.md",
+                "file": "02_marp/1th_anime/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_reference/example.md",
+                "file": "02_marp/1th_anime/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_reference/example.md",
+                "file": "02_marp/1th_anime/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_reference/example.md"
+                "file": "02_marp/1th_anime/index.md"
               }
             }
           }
@@ -162,17 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fec64f3ae0440e39",
+  "active": "794dc6e2b907d7eb",
   "lastOpenFiles": [
-    "03_daily",
     "02_marp/Home.md",
+    "02_marp/1th_anime/_notes/Anchoko.md",
+    "02_marp/1th_anime/_notes",
+    "02_marp/notes.md",
+    "02_marp/1th_anime/notes/Anchoko.md",
+    "02_marp/1th_anime/notes",
+    "02_marp/1th_anime/home/Anchoko.md",
+    "02_marp/1th_anime/home",
+    "02_marp/home.md",
+    "02_marp/1th_anime/Home/Anchoko.md",
+    "02_marp/1th_anime/Home",
+    "_notes/Anchoko.md",
+    "_notes",
+    "02_marp/1th_anime/index.md",
+    "99_reference/example.md",
+    "03_daily",
     "02_marp/1th_anime/images/2024-05-16-11-22-02.png",
     "02_marp/1th_anime/images/2024-05-16-11-08-38.png",
     "02_marp/1th_anime/images/2024-05-15-15-24-37.png",
-    "02_marp/1th_anime/_notes/Anchoko.md",
-    "02_marp/1th_anime/index.md",
     "02_marp/1th_anime/images",
-    "02_marp/1th_anime/_notes",
     "02_marp/1th_anime",
     "02_marp",
     "Welcome.md"
