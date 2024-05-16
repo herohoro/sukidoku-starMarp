@@ -8,7 +8,12 @@ headingDivider: 1 # ページ切り替えの基準を見出し1にする
 paginate: true # ページを下部に表示する
 size: 16:9 # 縦横比の設定をする、4:3か16:9が多い
 math: katex # Latexを書けるよう設定
+
+title: "#1 アニメ紹介_お話会"
+description: ""
 ---
+
+
 
 # 本日のもくじ
 

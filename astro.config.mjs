@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: '好き Docs',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
@@ -14,13 +14,22 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'Example Guide', link: '/01_guides/example/' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: '交流会の記録',
+					autogenerate: { directory: '02_marp' },
 				},
+				{
+					label: 'horomiの日記',
+					autogenerate: { directory: '03_daily' },
+				},
+				{
+					label: 'Reference',
+					autogenerate: { directory: '99_reference' },
+				},
+				
 			],
 		}),
 	],
