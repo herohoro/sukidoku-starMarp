@@ -12,8 +12,12 @@
             "id": "794dc6e2b907d7eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_reference/example.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_reference/example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_reference/example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_reference/example.md"
+              }
             }
           }
         ]
@@ -154,18 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fec64f3ae0440e39",
+  "active": "794dc6e2b907d7eb",
   "lastOpenFiles": [
-    "marp/Home.md",
-    "marp/1th_anime/images/2024-05-16-11-22-02.png",
-    "marp/1th_anime/images/2024-05-16-11-08-38.png",
-    "marp/1th_anime/images/2024-05-15-15-24-37.png",
-    "marp/1th_anime/_notes/Anchoko.md",
-    "marp/1th_anime/index.md",
-    "marp/1th_anime/images",
-    "marp/1th_anime/_notes",
-    "marp/1th_anime",
-    "marp",
+    "03_daily",
+    "02_marp/Home.md",
+    "02_marp/1th_anime/images/2024-05-16-11-22-02.png",
+    "02_marp/1th_anime/images/2024-05-16-11-08-38.png",
+    "02_marp/1th_anime/images/2024-05-15-15-24-37.png",
+    "02_marp/1th_anime/_notes/Anchoko.md",
+    "02_marp/1th_anime/index.md",
+    "02_marp/1th_anime/images",
+    "02_marp/1th_anime/_notes",
+    "02_marp/1th_anime",
+    "02_marp",
     "Welcome.md"
   ]
 }
