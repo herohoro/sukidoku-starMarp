@@ -7,13 +7,18 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "marp":"npx @marp-team/marp-cli -s ./src/content/docs"
   },
   "dependencies": {
+    "@astrojs/check": "^0.7.0",
     "@astrojs/starlight": "^0.22.3",
     "astro": "^4.3.5",
     "sharp": "^0.32.5",
-    "@astrojs/check": "^0.7.0",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0",
+    "prettier": "3.2.5"
   }
 }
