@@ -6,6 +6,7 @@
       {
         "id": "31a263487d2ebdad",
         "type": "tabs",
+        "dimension": 64.78770131771596,
         "children": [
           {
             "id": "794dc6e2b907d7eb",
@@ -20,6 +21,7 @@
       {
         "id": "1ae12a41b21ad8ac",
         "type": "tabs",
+        "dimension": 35.21229868228404,
         "children": [
           {
             "id": "fc910f1955e1e085",
@@ -152,8 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794dc6e2b907d7eb",
+  "active": "fec64f3ae0440e39",
   "lastOpenFiles": [
+    "marp/Home.md",
+    "marp/1th_anime/images/2024-05-16-11-22-02.png",
+    "marp/1th_anime/images/2024-05-16-11-08-38.png",
+    "marp/1th_anime/images/2024-05-15-15-24-37.png",
+    "marp/1th_anime/_notes/Anchoko.md",
+    "marp/1th_anime/index.md",
+    "marp/1th_anime/images",
+    "marp/1th_anime/_notes",
+    "marp/1th_anime",
+    "marp",
     "Welcome.md"
   ]
 }

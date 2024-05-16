@@ -8,7 +8,7 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "marp":"npx @marp-team/marp-cli -s ./src/content/docs"
+    "marp":"npx @marp-team/marp-cli -s ./src/content/docs/marp"
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
