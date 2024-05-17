@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_guides/example.md",
+                "file": "03_daily/community-daily.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "ade1084d8ba44f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_reference/relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1ae12a41b21ad8ac",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_guides/example.md",
+                "file": "99_reference/relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_guides/example.md",
+                "file": "99_reference/relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_guides/example.md"
+                "file": "99_reference/relation.md"
               }
             }
           }
@@ -162,14 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794dc6e2b907d7eb",
+  "active": "ade1084d8ba44f9a",
   "lastOpenFiles": [
-    "99_reference/example.md",
-    "03_daily/はじめてのお話会が楽しみ.md",
+    "01_guides/hello.md",
+    "99_reference/relation.md",
+    "03_daily/study-daily.md",
+    "03_daily/community-daily.md",
     "99_Template/PostTemplate.md",
     "99_Template/MarpTemplate.md",
     "02_marp/1th_anime/index.md",
-    "01_guides/example.md",
     "99_Template",
     "02_marp/1th_anime/_notes/Anchoko.md",
     "02_marp/Home.md",
