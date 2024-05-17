@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_reference/relation.md",
+                "file": "03_daily/community-daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_reference/relation.md",
+                "file": "03_daily/community-daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_reference/relation.md",
+                "file": "03_daily/community-daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_reference/relation.md"
+                "file": "03_daily/community-daily.md"
               }
             }
           }
@@ -177,9 +177,9 @@
   },
   "active": "ade1084d8ba44f9a",
   "lastOpenFiles": [
-    "01_guides/hello.md",
-    "99_reference/relation.md",
     "03_daily/study-daily.md",
+    "99_reference/relation.md",
+    "01_guides/hello.md",
     "03_daily/community-daily.md",
     "99_Template/PostTemplate.md",
     "99_Template/MarpTemplate.md",
