@@ -18,4 +18,4 @@ Date: 2024-05-18
 
 Dr.Stone解説記事： https://www.mottainaihonpo.com/kaitori/contents/cat02/018-drstone-omoshiroi.html
 
-![[index]]
+![[02_marp/1th_anime/index]]

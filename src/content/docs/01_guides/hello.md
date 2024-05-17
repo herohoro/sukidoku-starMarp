@@ -20,4 +20,5 @@ Instagramでは知らなかった一面も知れてとても仲良くなれる�
 興味がある方はお気軽に[ご連絡](https://www.instagram.com/herohoro_japan/)くださいね😉
 
 詳細👉 https://3ch.herohoro.com/blog/kobetsu/2024-01-30_sukidoku-about
+
 参加申し込み👉 https://coda.io/form/Discord_d4LQjlYnvZP

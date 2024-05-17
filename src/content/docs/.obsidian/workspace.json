@@ -4,51 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "31a263487d2ebdad",
-        "type": "tabs",
-        "dimension": 64.78770131771596,
-        "children": [
-          {
-            "id": "794dc6e2b907d7eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_daily/community-daily.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ade1084d8ba44f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_daily/community-daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "1ae12a41b21ad8ac",
         "type": "tabs",
-        "dimension": 35.21229868228404,
         "children": [
           {
             "id": "fc910f1955e1e085",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_marp/Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3b898150fc97d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_guides/hello.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "01_guides/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "01_guides/hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_daily/community-daily.md"
+                "file": "01_guides/hello.md"
               }
             }
           }
@@ -175,18 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ade1084d8ba44f9a",
+  "active": "ad3b898150fc97d7",
   "lastOpenFiles": [
-    "03_daily/study-daily.md",
     "99_reference/relation.md",
-    "01_guides/hello.md",
+    "03_daily/study-daily.md",
     "03_daily/community-daily.md",
+    "02_marp/Home.md",
+    "02_marp/1th_anime/index.md",
+    "02_marp/index.md",
+    "02_marp/Script",
+    "01_guides/hello.md",
     "99_Template/PostTemplate.md",
     "99_Template/MarpTemplate.md",
-    "02_marp/1th_anime/index.md",
     "99_Template",
     "02_marp/1th_anime/_notes/Anchoko.md",
-    "02_marp/Home.md",
     "02_marp/1th_anime/_notes",
     "02_marp/notes.md",
     "02_marp/1th_anime/notes/Anchoko.md",
@@ -204,7 +190,6 @@
     "02_marp/1th_anime/images/2024-05-15-15-24-37.png",
     "02_marp/1th_anime/images",
     "02_marp/1th_anime",
-    "02_marp",
     "Welcome.md"
   ]
 }
