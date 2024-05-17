@@ -7,14 +7,14 @@ export default defineConfig({
 		starlight({
 			title: '好き Docs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/herohoro/sukidoku-starMarp',
 			},
 			sidebar: [
 				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/01_guides/example/' },
+						{ label: 'Example Guide', link: '/01_guides/hello/' },
 					],
 				},
 				{
