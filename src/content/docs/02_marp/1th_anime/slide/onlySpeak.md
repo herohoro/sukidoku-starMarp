@@ -22,6 +22,7 @@ description: ""
 ```
 順番：horomi → あきと → ジュリアン → ユグ
 ```
+#
 
 # 特におすすめアニメ
 
@@ -37,4 +38,11 @@ https://dr-stone.jp/
 # 神奈川県の地図
 
 ![w:500](../images/2024-05-16-11-22-02.png)
+
+# おわりに
+
+是非見てみてね(^\_−)−☆
+![w:500](../images/2024-05-15-15-24-37.png)
+
+発明まとめ： https://youtu.be/lTv2_l88tIo?si=4qgvHgrYiId_Utc2
 

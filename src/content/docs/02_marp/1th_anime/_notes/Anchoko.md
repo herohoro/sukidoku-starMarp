@@ -31,6 +31,8 @@ Dr.Stone解説記事： https://www.mottainaihonpo.com/kaitori/contents/cat02/01
 
 ## 発表原稿
 
+アイスブレイキング：~19:10
+
 ### 1. 自己紹介
 
 - 私の名前は`ほろみ`です。
@@ -41,7 +43,8 @@ Dr.Stone解説記事： https://www.mottainaihonpo.com/kaitori/contents/cat02/01
   最近、ピアノを再開しました🎉Jazzの本を買って勉強しているところです。
 - 苦手な食べ物は`わさび`です。
 
-
+~19:15
+4人終了：19:30
 #### 2. horomiのおすすめアニメ
 
 ##### 最近見たアニメ
@@ -87,3 +90,7 @@ https://dr-stone.jp/
 是非見てみてね(^\_−)−☆
 
 発明まとめ： https://youtu.be/lTv2_l88tIo?si=4qgvHgrYiId_Utc2
+
+
+19:40には終わりたい...
+4人終了：19:55

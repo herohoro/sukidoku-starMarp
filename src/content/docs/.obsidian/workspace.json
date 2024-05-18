@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_marp/Home.md",
+                "file": "02_marp/1th_anime/slide/onlySpeak.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0e920679e4a4b70e",
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_marp/1th_anime/docs.md",
+                "file": "02_marp/1th_anime/_notes/Anchoko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_marp/1th_anime/docs.md",
+                "file": "02_marp/1th_anime/_notes/Anchoko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_marp/1th_anime/docs.md"
+                "file": "02_marp/1th_anime/_notes/Anchoko.md"
               }
             }
           }
@@ -176,13 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a86484a3a171f5f",
+  "active": "ad3b898150fc97d7",
   "lastOpenFiles": [
-    "02_marp/1th_anime/_notes/Anchoko.md",
+    "02_marp/1th_anime/docs.md",
     "02_marp/1th_anime/slide/onlySpeak.md",
     "02_marp/Home.md",
+    "02_marp/1th_anime/_notes/Anchoko.md",
     "02_marp/1th_anime/slide/textSp.md",
-    "02_marp/1th_anime/docs.md",
     "02_marp/1th_anime/slide",
     "03_daily/community-daily.md",
     "03_daily/study-daily.md",
