@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "03_daily/study-daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,14 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "03_daily/study-daily.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "03_daily/study-daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "03_daily/study-daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_daily/community-daily.md"
+                "file": "03_daily/study-daily.md"
               }
             }
           }
@@ -179,12 +178,12 @@
   },
   "active": "fc910f1955e1e085",
   "lastOpenFiles": [
-    "03_daily/study-daily.md",
-    "02_marp/1th_anime/slide/onlySpeak.md",
-    "03_daily/community-daily.md",
-    "99_reference/relation.md",
-    "02_marp/1th_anime/_notes/Anchoko.md",
     "02_marp/1th_anime/docs.md",
+    "03_daily/study-daily.md",
+    "03_daily/community-daily.md",
+    "02_marp/1th_anime/_notes/Anchoko.md",
+    "02_marp/1th_anime/slide/onlySpeak.md",
+    "99_reference/relation.md",
     "02_marp/Home.md",
     "02_marp/1th_anime/slide/textSp.md",
     "02_marp/1th_anime/slide",
