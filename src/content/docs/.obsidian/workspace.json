@@ -13,37 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_daily/community-daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4da17debaa3f08c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a86484a3a171f5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_marp/1th_anime/docs.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ad3b898150fc97d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_daily/study-daily.md",
+                "file": "01_guides/hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "01_guides/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "01_guides/hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_daily/community-daily.md"
+                "file": "01_guides/hello.md"
               }
             }
           }
@@ -178,16 +148,16 @@
   },
   "active": "fc910f1955e1e085",
   "lastOpenFiles": [
-    "03_daily/study-daily.md",
+    "02_marp/Home.md",
     "03_daily/community-daily.md",
+    "03_daily/study-daily.md",
+    "01_guides/hello.md",
     "02_marp/1th_anime/docs.md",
     "02_marp/1th_anime/_notes/Anchoko.md",
     "02_marp/1th_anime/slide/onlySpeak.md",
     "99_reference/relation.md",
-    "02_marp/Home.md",
     "02_marp/1th_anime/slide/textSp.md",
     "02_marp/1th_anime/slide",
-    "01_guides/hello.md",
     "02_marp/index.md",
     "02_marp/Script",
     "99_Template/PostTemplate.md",
