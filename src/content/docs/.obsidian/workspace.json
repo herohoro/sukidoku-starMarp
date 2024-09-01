@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_guides/hello.md",
+                "file": "99_reference/relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_guides/hello.md",
+                "file": "99_reference/relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_guides/hello.md",
+                "file": "99_reference/relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_guides/hello.md"
+                "file": "99_reference/relation.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "fc910f1955e1e085",
   "lastOpenFiles": [
-    "02_marp/Home.md",
-    "03_daily/community-daily.md",
-    "03_daily/study-daily.md",
     "01_guides/hello.md",
+    "02_marp/Home.md",
+    "03_daily/study-daily.md",
+    "03_daily/community-daily.md",
     "02_marp/1th_anime/docs.md",
     "02_marp/1th_anime/_notes/Anchoko.md",
     "02_marp/1th_anime/slide/onlySpeak.md",
