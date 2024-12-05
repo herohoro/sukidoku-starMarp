@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "99_reference/relation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "relation"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "99_reference/relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for relation"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_daily/community-daily.md",
+                "file": "99_reference/relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from relation"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_daily/community-daily.md"
-              }
+                "file": "99_reference/relation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of relation"
             }
           }
         ]
@@ -149,10 +165,10 @@
   "active": "fc910f1955e1e085",
   "lastOpenFiles": [
     "03_daily/study-daily.md",
-    "99_reference/relation.md",
-    "01_guides/hello.md",
-    "02_marp/Home.md",
     "03_daily/community-daily.md",
+    "02_marp/Home.md",
+    "01_guides/hello.md",
+    "99_reference/relation.md",
     "02_marp/1th_anime/docs.md",
     "02_marp/1th_anime/_notes/Anchoko.md",
     "02_marp/1th_anime/slide/onlySpeak.md",
