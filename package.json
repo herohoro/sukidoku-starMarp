@@ -8,12 +8,12 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "marp":"npx @marp-team/marp-cli -s ./src/content/docs/02_marp"
+    "marp": "npx @marp-team/marp-cli -s ./src/content/docs/02_marp"
   },
   "dependencies": {
-    "@astrojs/check": "^0.7.0",
-    "@astrojs/starlight": "^0.22.3",
-    "astro": "^4.3.5",
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/starlight": "^0.30.5",
+    "astro": "^5.1.3",
     "sharp": "^0.32.5",
     "typescript": "^5.4.5"
   },
