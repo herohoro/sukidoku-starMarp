@@ -21,6 +21,7 @@ export default defineConfig({
 					label: '交流会の記録',
 					items: [
 						{ label: '2024-05-18', link: '/02_marp/1th_anime/docs' },
+						{ label: '2025-01-25', link: '/02_marp/2th_ohashi/docs' },
 					],
 				},
 				{
